@@ -9,7 +9,7 @@ class String
   end
 
   def question?
-puts "What's you name?"
+"What's you name?".end_with?("?")
 puts "Happy Halloween!"
   end
 
