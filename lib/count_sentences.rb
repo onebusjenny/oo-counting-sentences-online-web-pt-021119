@@ -19,6 +19,6 @@ class String
   end
 
   def count_sentences
-"This is a string! It has three sentences. Right?".count_sentences
+
   end
 end
