@@ -15,7 +15,7 @@ class String
   end
 
   def exclamation?
-"Hi".end_with?("!")
+"Hi!".end_with?("!")
   end
 
   def count_sentences
