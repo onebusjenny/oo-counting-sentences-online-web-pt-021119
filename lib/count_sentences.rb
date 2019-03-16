@@ -19,6 +19,6 @@ class String
   end
 
   def count_sentences
-
+"one. two. three?".count_sentences
   end
 end
