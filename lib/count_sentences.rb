@@ -10,7 +10,7 @@ class String
 
   def question?
 "What's you name?".end_with?("?")
-puts "Happy Halloween!"
+"Happy Halloween!".end_with?("!")
   end
 
   def exclamation?
