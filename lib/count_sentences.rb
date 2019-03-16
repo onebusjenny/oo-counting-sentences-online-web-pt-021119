@@ -6,7 +6,6 @@ class String
    
     "HI".end_with?("!")
     "HI?".end_with?("?")
-   
   end
 
   def question?
