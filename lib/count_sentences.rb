@@ -18,6 +18,6 @@ class String
   end
 
   def count_sentences
-"Hi".end_with!("!")
+"Hi".end_with?("!")
   end
 end
