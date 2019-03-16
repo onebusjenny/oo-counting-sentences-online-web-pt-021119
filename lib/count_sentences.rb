@@ -6,7 +6,7 @@ class String
    
     "HI".end_with?("!")
     "HI?".end_with?("?")
-    puts self
+    
   end
 
   def question?
