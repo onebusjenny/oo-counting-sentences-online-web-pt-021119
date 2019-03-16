@@ -5,12 +5,11 @@ class String
   def sentence?
    
     "HI".end_with?("!")
-  binding.pry
    
   end
 
   def question?
-"Hi".end_with?("?")
+puts self
   end
 
   def exclamation?
