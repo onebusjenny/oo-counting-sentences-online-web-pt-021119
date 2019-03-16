@@ -9,7 +9,7 @@ class String
   end
 
   def question?
-puts self
+puts "What's you name"
   end
 
   def exclamation?
